@@ -20,7 +20,7 @@
   
     api_key: ***************************
     
-    base_url: https://user.duckdns.org:8123
+    
     
     language: 'ru-RU'
     
