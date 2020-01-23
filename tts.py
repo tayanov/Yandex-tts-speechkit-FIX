@@ -20,13 +20,31 @@ SUPPORT_LANGUAGES = ["ru-RU", "en-US", "tr-TR"]
 SUPPORT_CODECS = ["lpcm", "oggopus"]
 
 SUPPORT_VOICES = [
+    "jane",
     "oksana",
     "jane",
     "omazh",
     "zahar",
     "ermil",
+    "levitan",
+    "ermilov",
     "silaerkan",
+    "kolya",
+    "kostya",
+    "nastya",
+    "sasha",
+    "nick",
     "erkanyavas",
+    "zhenya",
+    "tanya",
+    "anton_samokhvalov",
+    "tatyana_abramova",
+    "voicesearch",
+    "ermil_with_tuning",
+    "robot",
+    "dude",
+    "zombie",
+    "smoky",
     "alyss",
     "nick",
     "alena",
@@ -100,7 +118,6 @@ class YandexSpeechKitProvider(Provider):
         return SUPPORTED_OPTIONS
 
     async def async_get_tts_audio(self, message, language, options=None):
-         """Load TTS from yandex speechkit."""
         websession = async_get_clientsession(self.hass)
         actual_language = language
         options = options or {}
