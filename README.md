@@ -1,5 +1,5 @@
 # Yandex-tts-speechkit-FIX
-# Исправленный кастом компонент для TTS Yandex для Home Assistant
+# Исправленный кастом компонент TTS Yandex для Home Assistant
 
 Работает с новыми АПИ Ключами полученными https://console.cloud.yandex.ru/
 Этот ключ можно получить бесплатно на 60 дней. (Нужна карта виза. мастеркард ) Дальше платно.
