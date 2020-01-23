@@ -17,7 +17,7 @@
 
   - platform: yandextts
   
-    api_key: *******************Pgm9ibWdjPc********
+    api_key: ***************************
     
     base_url: https://user.duckdns.org:8123
     
