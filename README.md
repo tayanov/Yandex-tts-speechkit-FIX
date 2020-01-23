@@ -14,11 +14,17 @@
 \custom_components\yandextts\tts.py
 
 Пример настройки 
+
   - platform: yandextts
+  
     api_key: *******************Pgm9ibWdjPc********
+    
     base_url: https://user.duckdns.org:8123
+    
     language: 'ru-RU'
+    
     codec: oggopus
+    
     voice: oksana
     
 К выводу не доступен mp3. Ограничение у апи.
