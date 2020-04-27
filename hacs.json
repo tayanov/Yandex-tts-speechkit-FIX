@@ -1,7 +1,5 @@
 {
   "name": "Yandex TTS Speechkit FIX",
-  "content_in_root": true,
-  "filename": false,
   "render_readme": true,
   "country": ["RU"]
 }
