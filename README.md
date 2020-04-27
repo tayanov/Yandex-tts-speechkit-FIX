@@ -30,5 +30,8 @@ codec: oggopus
 codec: lpcm.
 
 Не используйте эмоции.
-Остальные поции не проверены на работоспособность.    
+Остальные поции не проверены на работоспособность.
+
+Установка через HACS
+Скопируйте url https://github.com/tayanov/Yandex-tts-speechkit-FIX в раздел CUSTOM REPOSITORIES в HACS
     
