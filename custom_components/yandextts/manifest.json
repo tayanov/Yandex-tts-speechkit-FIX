@@ -1,8 +1,9 @@
 {
   "domain": "yandextts",
-  "name": "Yandextts",
-  "documentation": "https://www.home-assistant.io/integrations/yandextts",
+  "name": "Yandex TTS",
+  "documentation": "https://github.com/wowgamr/Yandex-tts-speechkit-FIX",
+  "issue_tracker": "https://github.com/tayanov/Yandex-tts-speechkit-FIX/issues",
   "requirements": [],
   "dependencies": [],
-  "codeowners": []
+  "codeowners": ["@tayanov"]
 }
