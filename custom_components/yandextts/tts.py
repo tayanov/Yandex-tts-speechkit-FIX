@@ -58,7 +58,7 @@ MAX_SPEED = 3
 
 CONF_CODEC = "codec"
 CONF_VOICE = "voice"
-CONF_EMOTION = "neutral"
+CONF_EMOTION = "emotion"
 CONF_SPEED = "speed"
 
 DEFAULT_LANG = "en-US"
