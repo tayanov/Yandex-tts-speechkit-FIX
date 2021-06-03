@@ -4,6 +4,6 @@
   "documentation": "https://www.home-assistant.io/integrations/yandextts",
   "requirements": [],
   "dependencies": [],
-  "codeowners": []
-  "version": "1.0.0",
+  "codeowners": [],
+  "version": "1.0.0"
 }
